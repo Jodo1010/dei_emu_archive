@@ -2,6 +2,13 @@
 // Add new statements to this array
 
 const statements = [
+     {
+        institution: "College of Arts and Sciences",
+        category: "college",
+        dateArchived: "April 10, 2025",
+        preview: "One of the responsibilities of a public university is to instantiate the ideals of equity, freedom, and justice, while cultivating a well-informed populace capable of critical thinking and creative innovation...",
+        url: "statements/emu-college-arts-sciences.html"
+    },   
     {
         institution: "Halle Library",
         category: "university",

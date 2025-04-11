@@ -2,6 +2,13 @@
 // Add new statements to this array
 
 const statements = [
+      {
+        institution: "Psychology Department",
+        category: "department",
+        dateArchived: "April 10, 2025",
+        preview: "The EMU Psychology Department highly values diversity, equity, and inclusion (DEI). We actively strive to make our discipline and the broader society more representative and affirming of the various experiences and identities...",
+        url: "statements/emu-psychology-department.html"
+    },
      {
         institution: "College of Arts and Sciences",
         category: "college",

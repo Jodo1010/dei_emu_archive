@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DEI Statement Archive</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="js/main.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>DEI Statement Archive</h1>
+        <p>Preserving institutional diversity, equity, and inclusion statements for historical reference</p>
+    </header>
+
+    <nav>
+        <div class="search-container">
+            <input type="text" id="search-input" placeholder="Search by institution name...">
+            <button id="search-button">Search</button>
+        </div>
+        <select id="category-filter">
+            <option value="all">All Categories</option>
+            <option value="university">Universities</option>
+            <option value="college">Colleges</option>
+            <option value="department">Departments</option>
+        </select>
+    </nav>
+
+    <main>
+        <div class="statement-grid" id="statement-container">
+            <!-- Statement cards will be inserted here from statements.js -->
+            <!-- Example card structure:
+            <div class="statement-card" data-category="university">
+                <h2>University Name</h2>
+                <p class="date">Archived: January 1, 2023</p>
+                <div class="statement-preview">First few lines of the statement...</div>
+                <a href="statements/university-name.html" class="read-more">Read Full Statement</a>
+            </div>
+            -->
+        </div>
+    </main>
+
+    <footer>
+        <p>This archive is maintained for research and historical purposes. Last updated: <span id="last-updated">April 2025</span></p>
+    </footer>
+</body>
+</html>

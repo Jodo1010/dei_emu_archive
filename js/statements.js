@@ -3,6 +3,13 @@
 
 const statements = [
       {
+        institution: " Department of English Language and Literature",
+        category: "department",
+        dateArchived: "April 10, 2025",
+        preview: "The Department of English Language and Literature stands in solidarity with Black Lives Matter in condemning the long history of Black people being brutalized, terrorized, and killed in our country...",
+        url: "statements/emu-english-department.html"
+    },
+      {
         institution: "Psychology Department",
         category: "department",
         dateArchived: "April 10, 2025",

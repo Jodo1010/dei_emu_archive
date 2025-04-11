@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EMU Psychology Department - DEI Statement Archive</title>
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>DEI Statement Archive</h1>
+        <p>Preserving institutional diversity, equity, and inclusion statements for historical reference</p>
+    </header>
+
+    <main>
+        <div class="statement-container">
+            <div class="statement-header">
+                <h1>Eastern Michigan University Psychology Department</h1>
+                <div class="statement-meta">
+                    <span class="archived-date">Archived: April 10, 2025</span>
+                    <span class="category">Department</span>
+                    <span class="source">Original URL: <a href="https://example.com/emu-psychology-dei" target="_blank">https://example.com/emu-psychology-dei</a></span>
+                </div>
+            </div>
+            
+            <div class="statement-content">
+                <h2>EMU Psychology Department Diversity, Equity, and Inclusion Statement and Action Plan</h2>
+                
+                <p>The EMU Psychology Department highly values diversity, equity, and inclusion (DEI). We actively strive to make our discipline and the broader society more representative and affirming of the various experiences and identities that make up our communities. Through iterative advancement, we seek to create a more welcoming environment that enhances and respects the wisdom, sacrifices, and contributions of historically marginalized community members, including but not limited to identities instantiated by race, sex, gender expression, sexual orientation, disability, age, religion, and class.</p>
+                
+                <p>We acknowledge that psychologists occupy a position of privilege within society and that the foundational tenets of the discipline are nested within a broader social context that has an even longer history of reinforcing principles and practices of inequality and marginalization. We further affirm that without conscientious examination of such biases, we cannot truly affirm and enhance the lives of those who we endeavor to serve. Thus, we arrive at this moment, an opportunity to both explicitly define our values as well as enact positive change.</p>
+                
+                <p>First, given our privilege as faculty and staff within the Psychology Department, we recognize our responsibility to put actions to our values and create a community that is inclusive and committed to social justice. Additionally, we see it as one of our primary goals to engage with students in a collaborative process of learning that not only fosters broad-minded critical thinking, but also prepares them to be leaders and allies in our multicultural and diverse global reality. Finally, we understand that while many of our identities are subjectively assigned, the effects attendant with these designations are, nonetheless, objectively consequential.</p>
+                
+                <p>Therefore, in service to these values, we have enacted the follow set of policies and activities: The establishment of a standing DEI committee, the initiation of regular DEI programming, the development of awards that support our commitment to diversity, a focus on recruitment and retention of marginalized students and faculty, and routine assessment of these efforts. Our DEI Action Plan details these activities and proposed outcomes.</p>
+            </div>
+            
+            <a href="../index.html" class="back-button">Back to Archive</a>
+        </div>
+    </main>
+
+    <footer>
+        <p>This archive is maintained for research and historical purposes.</p>
+    </footer>
+</body>
+</html>
